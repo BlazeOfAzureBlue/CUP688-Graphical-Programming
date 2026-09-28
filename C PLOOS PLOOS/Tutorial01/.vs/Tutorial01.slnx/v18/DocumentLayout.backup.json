@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2mohrb55\\Downloads\\C PLOOS PLOOS\\Tutorial01\\",
+  "WorkspaceRootPath": "C:\\Users\\2mohrb55\\Downloads\\CUP688-Graphical-Programming\\C PLOOS PLOOS\\Tutorial01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFCACF87-BA2C-46F0-AF78-C588B1B0DE00}|Tutorial01.vcxproj|C:\\Users\\2mohrb55\\Downloads\\C PLOOS PLOOS\\Tutorial01\\Tutorial01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BFCACF87-BA2C-46F0-AF78-C588B1B0DE00}|Tutorial01.vcxproj|C:\\Users\\2mohrb55\\Downloads\\CUP688-Graphical-Programming\\C PLOOS PLOOS\\Tutorial01\\Tutorial01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BFCACF87-BA2C-46F0-AF78-C588B1B0DE00}|Tutorial01.vcxproj|solutionrelative:Tutorial01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Tutorial01.cpp",
-              "DocumentMoniker": "C:\\Users\\2mohrb55\\Downloads\\C PLOOS PLOOS\\Tutorial01\\Tutorial01.cpp",
+              "DocumentMoniker": "C:\\Users\\2mohrb55\\Downloads\\CUP688-Graphical-Programming\\C PLOOS PLOOS\\Tutorial01\\Tutorial01.cpp",
               "RelativeDocumentMoniker": "Tutorial01.cpp",
-              "ToolTip": "C:\\Users\\2mohrb55\\Downloads\\C PLOOS PLOOS\\Tutorial01\\Tutorial01.cpp",
+              "ToolTip": "C:\\Users\\2mohrb55\\Downloads\\CUP688-Graphical-Programming\\C PLOOS PLOOS\\Tutorial01\\Tutorial01.cpp",
               "RelativeToolTip": "Tutorial01.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-09-28T09:36:57.962Z",
               "EditorCaption": ""
